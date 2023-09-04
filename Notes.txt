@@ -12,3 +12,8 @@ tuples
 custom string state management
 void means return nothing
 generics && generics overloading
+
+// helpful commands
+
+tsc --watch
+tsx watch filename.ts

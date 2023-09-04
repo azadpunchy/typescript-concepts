@@ -1,0 +1,5 @@
+reproduce 
+forEach
+filter
+map
+using reduce method and have to be type Safe

@@ -1,0 +1,14 @@
+{
+  "name": "1-ts-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc functions.ts -p ."
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.2.2"
+  }
+}

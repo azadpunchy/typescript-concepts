@@ -1,0 +1,14 @@
+types
+interface
+implements it is just like interface
+extends it means inhirit property from parent
+functions as parameter i.e callback Functions 
+functions that return a function (classic javascript closure)
+type Record utility in typescript takes a string and a parameter e.g (Record<string,parameter>)
+function overloading managing multiple input parameters type like string,obj, number and return Object
+nullish operator
+optional callbacks
+tuples 
+custom string state management
+void means return nothing
+generics && generics overloading

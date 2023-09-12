@@ -1,3 +1,5 @@
 node_modules
 dist
 yarn.lock
+manan-github-ssh-key
+manan-github-ssh-key.pub

@@ -12,6 +12,13 @@ tuples
 custom string state management
 void means return nothing
 generics && generics overloading
+generics mapped 
+classes
+abstract classes
+static and get keyworkd in typescript
+functions that return classes
+single class intance within class
+singleton pattern with sigle instantiation with class
 
 // helpful commands
 

@@ -19,8 +19,9 @@ static and get keyworkd in typescript
 functions that return classes
 single class intance within class
 singleton pattern with sigle instantiation with class
+vite with bun and typescript
 
 // helpful commands
-
+bun create vite@latest
 tsc --watch
 tsx watch filename.ts

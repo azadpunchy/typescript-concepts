@@ -20,6 +20,7 @@ functions that return classes
 single class intance within class
 singleton pattern with sigle instantiation with class
 vite with bun and typescript
+typescript structured compilation with bun
 
 // helpful commands
 bun create vite@latest
